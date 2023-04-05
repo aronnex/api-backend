@@ -1,4 +1,4 @@
-package com.aron.project.model.enums;
+package com.common.model.enums;
 
 import java.util.Arrays;
 import java.util.List;
