@@ -3,7 +3,9 @@ package com.api.apiclientsdk.utils;
 import cn.hutool.crypto.digest.DigestAlgorithm;
 import cn.hutool.crypto.digest.Digester;
 
-//签名工具
+/**
+ * 签名工具
+ */
 public class SignUtils {
     /**
      * 生成签名

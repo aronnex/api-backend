@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.api</groupId>
     <artifactId>api-client-sdk</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.1</version>
     <name>api-client-sdk</name>
     <description>api-client-sdk</description>
     <properties>
@@ -40,7 +40,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>5.8.10</version>
+            <version>5.8.9</version>
         </dependency>
     </dependencies>
 
