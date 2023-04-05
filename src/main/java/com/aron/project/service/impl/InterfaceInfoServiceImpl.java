@@ -2,10 +2,10 @@ package com.aron.project.service.impl;
 
 import com.aron.project.common.ErrorCode;
 import com.aron.project.exception.BusinessException;
-import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.aron.project.mapper.InterfaceInfoMapper;
-import com.aron.project.model.entity.InterfaceInfo;
 import com.aron.project.service.InterfaceInfoService;
+import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import com.common.model.entity.InterfaceInfo;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Service;
 

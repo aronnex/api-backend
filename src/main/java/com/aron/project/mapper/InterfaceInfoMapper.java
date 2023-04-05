@@ -1,7 +1,7 @@
 package com.aron.project.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.aron.project.model.entity.InterfaceInfo;
+import com.common.model.entity.InterfaceInfo;
 
 /**
 * @author aronnex

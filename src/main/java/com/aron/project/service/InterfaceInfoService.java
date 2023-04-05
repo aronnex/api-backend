@@ -1,7 +1,7 @@
 package com.aron.project.service;
 
-import com.aron.project.model.entity.InterfaceInfo;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.common.model.entity.InterfaceInfo;
 
 /**
 * @author aronnex
